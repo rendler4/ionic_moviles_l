@@ -1,0 +1,21 @@
+{"data": 
+    [{
+        "id":1,
+        "nombre":"Andres",
+        "apelido":"Reyes",
+        "estado":true,
+        "edad":21
+    },{
+        "id":2,
+        "nombre":"Juan",
+        "apelido":"Reyes",
+        "estado":true,
+        "edad":29
+    },{
+        "id":3,
+        "nombre":"Camilo",
+        "apelido":"Valencia",
+        "estado":true,
+        "edad":21
+    }]
+}
